@@ -75,8 +75,9 @@ We welcome contributions to improve the e-commerce website. Please follow these 
 This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
-Smeet Patil - smeetpatil878@gmail.com
-Sumeet Prajapati - sumeet9704@outlook.com
+###Smeet Patil - smeetpatil878@gmail.com
+
+###Sumeet Prajapati - sumeet9704@outlook.com
 
 Project Link: https://github.com/SmeetPatil/tech-nexus
 
